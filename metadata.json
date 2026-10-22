@@ -1,0 +1,6 @@
+{
+  "name": "Cotizador Neón",
+  "description": "Sistema de gestión y cotización profesional para talleres de cartelería LED Neon Flex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
